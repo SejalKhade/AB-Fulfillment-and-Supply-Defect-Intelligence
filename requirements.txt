@@ -1,0 +1,10 @@
+pandas>=2.0.0
+numpy>=1.26.0
+duckdb>=1.0.0
+openpyxl>=3.1.0
+plotly>=5.20.0
+streamlit>=1.32.0
+anthropic>=0.25.0
+pytest>=8.0.0
+# Optional, Windows + Excel only: real-Excel recalculation test and vba/install_macros.ps1
+pywin32>=306; sys_platform == "win32"
