@@ -1,5 +1,7 @@
 # AB Fulfillment & Supply Defect Intelligence
 
+**Live dashboard:** https://ab-fulfillment-and-supply-defect-intelligence-etfnx89oepymfmwy.streamlit.app/
+
 An analyst toolkit for a supply chain team: it finds where fulfillment, inventory and
 suppliers are going wrong, ranks the causes, and turns them into an owned, dated
 escalation list plus an Excel report that keeps working inside Excel.
